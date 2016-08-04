@@ -1,0 +1,28 @@
+_repo: Hard-Cash_3067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: Originally published in 1863, Hard Cash was Reade's polemical expos of
+  the horrors routinely perpetrated against the inmates of England's insane asylums.
+  Alfred Hardie, victim of an embezzlement perpetrated by his father, is tricked into
+  entering an asylum; once there, he finds it almost impossible to prove himself sane.
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: Hard Cash
+url: http://www.gutenberg.org/ebooks/3067
